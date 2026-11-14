@@ -180,23 +180,7 @@ accident-prevention-system/
 - 🚑 Automatic **emergency response** with location sharing
 - ⌚ Smartwatch and fitness-tracker integration
 
----
 
-## 👥 Team
-
-| Roll No. | Name |
-|:---:|---|
-| 325 | Mishra Jyotilipsa |
-| 326 | More Manasvi Vivek |
-| 324 | Maurya Harsh Rakesh |
-| 341 | Bisht Chandranshu Ramesh |
-| 323 | Mahek |
-
-**🎓 Guide:** Prof. Sweta Waghmare
-**🏫 Institution:** Mahatma Education Society's Pillai College of Engineering (Autonomous), Dr. K. M. Vasudevan Pillai Campus, New Panvel
-**🎓 University:** University of Mumbai
-
----
 
 ## 📚 References
 
